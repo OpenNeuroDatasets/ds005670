@@ -1,0 +1,21 @@
+{
+    "TaskName": "rest",
+    "iEEGReference": "H5-H6",
+    "SamplingFrequency": 2000.0,
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "ElectrodeManufacturer": "Sinovation",
+    "ElectrodeManufacturersModelName": "SDE-08",
+    "ECOGChannelCount": 0,
+    "SEEGChannelCount": 186,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "RecordingDuration": 440.012,
+    "RecordingType": "continuous",
+    "ElectricalStimulation": false
+}
