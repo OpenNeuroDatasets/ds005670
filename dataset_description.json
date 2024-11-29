@@ -1,0 +1,8 @@
+{
+    "Name": "SEEG Resting State Recording",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Prof. Pengfei Xu"
+    ]
+  }
